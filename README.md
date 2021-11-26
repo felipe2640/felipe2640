@@ -5,7 +5,7 @@
 
 
 
-I'm learning at the moment **Java, Typescript , ReactNative**
+I'm learning at the moment **Java, Typescript , NextJs**
 
 <h3 align="left">Connect with me:</h3>
 

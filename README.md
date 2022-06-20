@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="left">My name is Felipe Barbosa and I'm developer Front End. I'm passionate about what the world of technology can give us. </h3>
+<h3 align="left">My name is Felipe Barbosa and I'm developer. I'm passionate about what the world of technology can give us. </h3>
 
 
 

@@ -1,4 +1,9 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">
+  Hi, 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://komarev.com/ghpvc/?username=felipe2640&label=VISITOR&style=for-the-badge" width="100px" alt="felipe2640">
+  
+  
 </h1>
 <h3 align="left">My name is Felipe Barbosa and I'm developer. I'm passionate about what the world of technology can give us. </h3>
 

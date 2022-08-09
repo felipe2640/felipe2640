@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://komarev.com/ghpvc/?username=felipe2640&label=VISITOR&style=for-the-badge" width="100px" alt="felipe2640">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Image hand">
+  <img src="https://komarev.com/ghpvc/?username=felipe2640&label=VISITOR&style=for-the-badge" width="100px" alt="felipe2640 :: Visitor's Count">
   
   
 </h1>
@@ -51,7 +51,7 @@ I'm develop at the moment in **Typescript**
 
 ## ⚡ GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe2640&show_icons=true&locale=en&layout=compact" alt="felipe2640" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe2640&show_icons=true&locale=en&layout=compact" alt="Profile Felipe2640 most usage languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe2640&show_icons=true&locale=en" alt="felipe2640" /></p>
 
